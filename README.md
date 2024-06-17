@@ -10,6 +10,8 @@ This repository my work for the [Exercism](https://exercism.org/) C# track.
 ### Submission Command
 `exercism submit "Exercism\csharp\lucians-luscious-lasagna\LuciansLusciousLasagna.cs"`
 
+![Banner](Data/Images/CSharp-Exercism-S01-Basics-Title.png)
+
 # Lucian's Luscious Lasagna
 
 Welcome to Lucian's Luscious Lasagna on Exercism's C# Track.
